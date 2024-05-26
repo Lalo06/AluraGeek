@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nintendo Game Boy",
+      "price": 3021.5,
+      "image": "./img/Game-Boy-FL.png"
+    },
+    {
+      "id": 2,
+      "name": "Clone Star Wars",
+      "price": 700,
+      "image": "./img/516uh4YMYsL._AC_UF894,1000_QL80_.png"
+    },
+    {
+      "id": 3,
+      "name": "Pokemons",
+      "price": 900,
+      "image": "./img/00019172637947l.png"
+    },
+    {
+      "id": 4,
+      "name": "Satoru Gojo",
+      "price": 1200,
+      "image": "./img/3bcc408f-ffa7-4850-8a2a-8e12007c4cee.png"
+    },
+    {
+      "id": 6,
+      "name": "Nintendo Switch",
+      "price": 9000,
+      "image": "./img/980016504m.png"
+    },
+    {
+      "id": 7,
+      "name": "Giyu Tomioka",
+      "price": 400,
+      "image": "./img/f3ac7a645e61402cbc1d11036536e475lg.png"
+    },
+    {
+      "name": "Taza Goku",
+      "price": 200,
+      "image": "./img/D_NQ_NP_983342-MLM41309868392_042020-O.png",
+      "id": 8
+    }
+  ]
+}
